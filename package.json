@@ -1,0 +1,16 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "esercizio node hello word",
+  "main": "style.js",
+  "scripts": {
+    "start": "node style.js",
+    "dev": "node --watch helloboolean.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-hello-world"
+  },
+  "author": "klaus qama",
+  "license": "ISC"
+}
